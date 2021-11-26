@@ -1,0 +1,16 @@
+{
+    "name": "luri-database", 
+    "version": "1.0.0", 
+    "license": "MIT", 
+    "description": "Framework Database SQLite", 
+    "author": "Dione Max <dione.mxes@gmail.com>", 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/maxestevam/luri-database.git"
+   }, 
+   "main": "./lib/database.js",
+   "publishConfig": {
+        "access": "private",
+        "registry": "https://registry.npmjs.org/"
+    }
+}
