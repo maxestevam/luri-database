@@ -1,6 +1,6 @@
 {
     "name": "luri-database", 
-    "version": "1.0.0", 
+    "version": "1.0.1", 
     "license": "MIT", 
     "description": "Framework Database SQLite", 
     "author": "Dione Max <dione.mxes@gmail.com>", 
