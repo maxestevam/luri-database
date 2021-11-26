@@ -9,8 +9,11 @@
         "url": "https://github.com/maxestevam/luri-database.git"
    }, 
    "main": "./lib/database.js",
-   "publishConfig": {
-        "access": "public",
-        "registry": "https://registry.npmjs.org/"
-    }
+   "keywords": [
+    "luriDatabase",
+    "luriSqlite"
+  ],
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  }
 }
