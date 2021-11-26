@@ -10,7 +10,7 @@
    }, 
    "main": "./lib/database.js",
    "publishConfig": {
-        "access": "private",
+        "access": "public",
         "registry": "https://registry.npmjs.org/"
     }
 }
